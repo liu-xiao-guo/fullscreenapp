@@ -1,0 +1,17 @@
+{
+    "name": "fullscreenapp.liu-xiao-guo",
+    "description": "description of fullscreenapp",
+    "architecture": "@CLICK_ARCH@",
+    "title": "fullscreenapp",
+    "hooks": {
+        "fullscreenapp": {
+            "apparmor": "fullscreenapp/fullscreenapp.apparmor",
+            "desktop":  "fullscreenapp/fullscreenapp.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

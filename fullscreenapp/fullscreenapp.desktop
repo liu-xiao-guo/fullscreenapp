@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=fullscreenapp
+Exec=qmlscene %U fullscreenapp/Main.qml
+Icon=fullscreenapp/fullscreenapp.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
